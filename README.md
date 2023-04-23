@@ -10,4 +10,5 @@ In conclusion, the analysis of this music dataset revealed a number of valuable 
 # Key Findings
 * It is evident from the analysis that the top 10 songs on YouTube and Spotify exhibit significant differences. For example, the top song on YouTube is currently held by Ed Sheeran, with a total view count of 15.5 billion. In contrast, the top song on Spotify is currently held by Post Malone, with a total streaming count of 15 billion. This highlights the differences in user behavior on these platforms and the potential impact of different factors on a song's popularity, such as the way the content is consumed and the audience demographic. It is important to note that the differences in the top song rankings can be influenced by a variety of factors, including the release date, marketing efforts, overall exposure of the songs and user experince with the platform
 ![image](https://user-images.githubusercontent.com/120264399/233824485-38930700-7a42-4739-936c-d303fa3e21e8.png)
+![image](https://user-images.githubusercontent.com/120264399/233824540-a7ee0ba9-95b7-4472-9f42-99809f571583.png)
 

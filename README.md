@@ -1,5 +1,6 @@
 # Spotify-and-Youtube-Data-Analysis
 The dataset in question is a comprehensive collection of music tracks from all over the world, representing a diverse range of artists and genres. Each track is accompanied by a set of statistical metrics that provide insight into its performance on Spotify, such as the number of times it has been streamed. In addition to this, the dataset also includes data on the official music video views for each song on YouTube.
+![repot](https://github.com/shivamks1998/Spotify-and-Youtube-Data-Analysis/blob/master/Analysis.pdf)
 
 To aid in the analysis, I employed the use of Power Query to preprocess and transform the data. This allowed me to extract important insights from the data and to streamline the data preparation process. For example, I used Power Query to clean up and format the data, to remove duplicates, and to split up columns as necessary.
 

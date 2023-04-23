@@ -7,4 +7,4 @@ Finally, to effectively communicate the insights that I had discovered, I develo
 
 In conclusion, the analysis of this music dataset revealed a number of valuable insights into the behavior of music listeners and the impact of different factors on a track's popularity. Through the use of Power Query and dashboard creation, I was able to make sense of the complex data and communicate my findings in a clear and concise manner.
 
-Key Findings
+# Key Findings
